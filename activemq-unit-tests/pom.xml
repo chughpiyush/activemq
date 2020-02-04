@@ -226,6 +226,11 @@
       <version>${jasypt-version}</version>
       <optional>true</optional>
     </dependency>
+    <dependency>
+      <groupId>com.google.guava</groupId>
+      <artifactId>guava</artifactId>
+      <version>${guava-version}</version>
+    </dependency>
     <!-- database testing -->
     <dependency>
       <groupId>commons-collections</groupId>

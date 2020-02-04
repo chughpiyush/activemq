@@ -31,3 +31,9 @@ dependency-reduced-pom.xml
 velocity.log
 
 /.metadata
+
+*.txt
+*.html
+
+
+
